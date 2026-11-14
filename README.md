@@ -127,17 +127,6 @@ The first `import oqs` downloads and builds liboqs into `~/_oqs`, which needs `c
 
 ---
 
-## Citation
-
-```bibtex
-@inproceedings{aden2027pqc,
-  author    = {S. Aden and E. Yocam and V. Vaidyan and A. Patil},
-  title     = {The Adoption of Post-Quantum Cryptography Due to the Impact of Quantum Algorithms},
-  booktitle = {Proc. IEEE 17th Annu. Comput. Commun. Workshop Conf. (CCWC)},
-  year      = {2027}
-}
-```
-
 ## Key References
 
 - NIST FIPS 203 (ML-KEM), FIPS 204 (ML-DSA), FIPS 205 (SLH-DSA), 2024.
@@ -147,6 +136,3 @@ The first `import oqs` downloads and builds liboqs into `~/_oqs`, which needs `c
 - K. Kwiatkowski et al., "Post-quantum hybrid ECDHE-MLKEM key agreement for TLSv1.3," draft-ietf-tls-ecdhe-mlkem, 2026.
 - Open Quantum Safe project, liboqs: https://openquantumsafe.org
 
-## Contact
-
-Eric Yocam (corresponding author), Cal Poly San Luis Obispo, eyocam@calpoly.edu
