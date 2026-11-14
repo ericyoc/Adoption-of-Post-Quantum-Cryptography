@@ -2,10 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericyoc/Adoption-of-Post-Quantum-Cryptography/blob/main/Adoption_of_Post_Quantum_Cryptography.ipynb)
 
-Companion code for the IEEE CCWC 2027 paper by Shane Aden, Eric Yocam, Varghese Vaidyan, and Abhishek Patil (Dakota State University and Cal Poly San Luis Obispo).
-
-The study looks at post-quantum migration from both sides at once:
-
 - **Threat:** a calibrated cost model of factoring RSA moduli with the classical general number field sieve (GNFS) and with Shor's algorithm, plus a projection of when quantum hardware becomes large enough to break each key size.
 - **Defense:** a same-machine benchmark of the NIST post-quantum standards (FIPS 203, 204, 205) against the classical algorithms they replace, plus the on-the-wire size of each and of a full TLS 1.3 handshake.
 
